@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MyDecrypyter:jar">
+    <output-path>$USER_HOME$/Desktop/MyDecrypyter_jar</output-path>
+    <root id="archive" name="MyDecrypyter.jar">
+      <element id="module-output" name="MyDecrypyter" />
+    </root>
+  </artifact>
+</component>
